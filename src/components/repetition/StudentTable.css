@@ -1,0 +1,14 @@
+.StudentsTable table {
+    width: 100%;
+    table-layout: fixed;
+}
+
+.StudentsTable th {
+    padding: 20px 15px;
+    text-align: center;
+    background-color: #1BBF91;
+}
+
+.StudentsTable .Even {
+    background-color: #dbdddf;
+}

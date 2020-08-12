@@ -1,0 +1,8 @@
+.Counter input {
+    max-width: 100px;
+    min-width: 100px;
+}
+
+.Counter button {
+    margin: 15px;
+}

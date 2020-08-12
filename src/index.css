@@ -1,0 +1,13 @@
+#root,
+body {
+    background-color: #324759;
+    color: #fff;
+    height: 100vh;
+}
+
+body,
+input,
+button,
+textarea {
+    font-family: Fira Code;
+}
